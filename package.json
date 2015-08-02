@@ -1,5 +1,5 @@
 {
-  "name": "flatten",
+  "name": "utilise.flatten",
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
